@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taller3.2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="btnNewFragment">Go to the form</string>
+
+    <string name="hello">Hello World</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
